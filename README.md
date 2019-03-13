@@ -5,7 +5,8 @@ README:
 Modulo 1 - Proyecto
 
 ArkaRoyale v.1.0
-Autor: Abel Rodríguez
+
+Autor: Abel RodrÃ­guez
 
 INSTRUCCIONES DE JUEGO:
 
